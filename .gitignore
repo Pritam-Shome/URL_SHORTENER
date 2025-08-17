@@ -1,3 +1,4 @@
 
-BACKEND/.env
-FRONTEND/.env
+# Ignore all env files in any folder
+*.env
+
